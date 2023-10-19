@@ -61,11 +61,10 @@ box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 button:nth-child(1)  {
-margin-left: -200px;
+margin-right: 20px;
 background: #FF00FF;
 }
 
 button:nth-child(2)  {
-margin-right:;: -2000px;
 colour: #FF00FF;
 }
